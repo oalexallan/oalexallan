@@ -1,10 +1,7 @@
 ## Bem-Vindo(a) ao perfil do Alex Allan
 
-<div>
-  <a href="https://github.com/oalexallan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oalexallan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalexallan&layout=compact&langs_count=6&theme=dracula"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oalexallan&theme=moltack&show_icons=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oalexallan&layout=compact&theme=moltack)
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" >
   <img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat">
@@ -21,6 +18,6 @@
     <a href="https://www.linkedin.com/in/alex-allan-silveira-a1b327264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/AllexAllan/AllexAllan/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/oalexallan/oalexallan/blob/output/github-contribution-grid-snake.svg)
 
 </div>
