@@ -1,7 +1,6 @@
 ## Bem-Vindo(a) ao perfil do Alex Allan
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oalexallan&theme=moltack&show_icons=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oalexallan&layout=compact&theme=moltack)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oalexallan&theme=moltack&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oalexallan&layout=compact&theme=moltack)
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" >
   <img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat">
