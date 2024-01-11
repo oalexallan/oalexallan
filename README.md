@@ -1,6 +1,29 @@
 ## Bem-Vindo(a) ao perfil do Alex Allan
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oalexallan&theme=moltack&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oalexallan&layout=compact&theme=moltack)
+<p>Me chamo Alex Allan e sou um entusiasta do mundo da tecnologia, mais especificamente no universo do desenvolvimento front-end para web e mobile. Atualmente, estou trilhando meu caminho acadêmico na faculdade de Desenvolvimento Full-Stack na Estácio, buscando expandir minhas habilidades e conhecimentos.
+
+   Além da graduação, estou mergulhado no mundo do aprendizado contínuo. Faço parte do curso DevEmDobro, onde conto com mentoria vitalícia, aprimorando minhas habilidades em front-end, e paralelamente, atuo como estagiário de infraestrutura na ITS Group, adquirindo uma compreensão valiosa sobre o funcionamento dos sistemas.
+
+   Minha jornada no desenvolvimento é uma mistura cativante de experiência e aprendizado constante. Ainda que minha trajetória profissional tenha iniciado recentemente, já pude trabalhar em projetos significativos, desenvolvendo aplicativos com ReactNative e explorando a construção de bancos de dados utilizando JavaScript e Python. A criação de sites interativos com HTML, CSS e JavaScript é uma área na qual tenho me dedicado intensamente.
+
+   Além do desenvolvimento, minha paixão pela criação se estende ao mundo da edição de vídeo. Durante dois anos, explorei ferramentas open-source para dar vida a ideias e histórias através da edição visual, agregando uma perspectiva única aos meus projetos.
+
+   Investi tempo estudando UX/UI, aprimorando minha compreensão da experiência do usuário e da interface do usuário. O Figma se tornou meu aliado nesse caminho, permitindo que eu mergulhe mais fundo nesse universo, trazendo insights valiosos para meus projetos de desenvolvimento.
+
+   Estou sempre em busca de desafios que me permitam expandir minhas habilidades e conhecimentos. Acredito que a combinação entre criatividade e habilidades técnicas é essencial para criar experiências digitais memoráveis e eficazes.
+
+   Meu objetivo é continuar aprimorando minhas habilidades técnicas, explorar novas tecnologias e, acima de tudo, contribuir para projetos que impactem positivamente a vida das pessoas. Seja desenvolvendo soluções inovadoras ou criando experiências envolventes, estou comprometido em evoluir e fazer a diferença no mundo digital.</p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oalexallan&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oalexallan&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oalexallan&show_icons=true&theme=dark&card_width=940&size_weight=4.5&count_weight=4.5)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" >
   <img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat">
