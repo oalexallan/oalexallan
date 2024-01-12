@@ -1,6 +1,6 @@
 ## Bem-Vindo(a) ao perfil do Alex Allan
 
-<p>Me chamo Alex Allan e sou um entusiasta do mundo da tecnologia, mais especificamente no universo do desenvolvimento front-end para web e mobile. Atualmente, estou trilhando meu caminho acadêmico na faculdade de Desenvolvimento Full-Stack na Estácio, buscando expandir minhas habilidades e conhecimentos.
+<p> Me chamo Alex Allan e sou um entusiasta do mundo da tecnologia, mais especificamente no universo do desenvolvimento front-end para web e mobile. Atualmente, estou trilhando meu caminho acadêmico na faculdade de Desenvolvimento Full-Stack na Estácio, buscando expandir minhas habilidades e conhecimentos.
 
    Além da graduação, estou mergulhado no mundo do aprendizado contínuo. Faço parte do curso DevEmDobro, onde conto com mentoria vitalícia, aprimorando minhas habilidades em front-end, e paralelamente, atuo como estagiário de infraestrutura na ITS Group, adquirindo uma compreensão valiosa sobre o funcionamento dos sistemas.
 
@@ -16,10 +16,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oalexallan&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oalexallan&show_icons=true&theme=dark&card_width=920" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oalexallan&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oalexallan&layout=compact&langs_count=8&card_width=660&show_icons=true&theme=dark" />
 </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oalexallan&show_icons=true&theme=dark&card_width=940&size_weight=4.5&count_weight=4.5)
