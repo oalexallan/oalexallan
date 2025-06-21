@@ -2,7 +2,7 @@
 
 <p> Me chamo Alex Allan e sou um entusiasta do mundo da tecnologia, mais especificamente no universo do desenvolvimento front-end para web e mobile. Atualmente, estou trilhando meu caminho acadêmico na faculdade de Desenvolvimento Full-Stack na Estácio, buscando expandir minhas habilidades e conhecimentos.
 
-   Além da graduação, estou mergulhado no mundo do aprendizado contínuo. Faço parte do curso DevEmDobro, onde conto com mentoria vitalícia, aprimorando minhas habilidades em front-end, e paralelamente, atuo como estagiário de infraestrutura na ITS Group, adquirindo uma compreensão valiosa sobre o funcionamento dos sistemas.
+   Além da graduação, estou mergulhado no mundo do aprendizado contínuo. Faço parte do curso DevEmDobro, onde conto com mentoria vitalícia, aprimorando minhas habilidades em front-end, e paralelamente, atuo como Analista de infraestrutura na ITS Group, adquirindo uma compreensão valiosa sobre o funcionamento dos sistemas.
 
    Minha jornada no desenvolvimento é uma mistura cativante de experiência e aprendizado constante. Ainda que minha trajetória profissional tenha iniciado recentemente, já pude trabalhar em projetos significativos, desenvolvendo aplicativos com ReactNative e explorando a construção de bancos de dados utilizando JavaScript e Python. A criação de sites interativos com HTML, CSS e JavaScript é uma área na qual tenho me dedicado intensamente.
 
