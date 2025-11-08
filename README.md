@@ -1,18 +1,5 @@
 ## Bem-Vindo(a) ao perfil do Alex Allan
 
-<p> Me chamo Alex Allan e sou um entusiasta do mundo da tecnologia, mais especificamente no universo do desenvolvimento front-end para web e mobile. Atualmente, estou trilhando meu caminho acadêmico na faculdade de Desenvolvimento Full-Stack na Estácio, buscando expandir minhas habilidades e conhecimentos.
-
-   Além da graduação, estou mergulhado no mundo do aprendizado contínuo. Faço parte do curso DevEmDobro, onde conto com mentoria vitalícia, aprimorando minhas habilidades em front-end, e paralelamente, atuo como Analista de infraestrutura na ITS Group, adquirindo uma compreensão valiosa sobre o funcionamento dos sistemas.
-
-   Minha jornada no desenvolvimento é uma mistura cativante de experiência e aprendizado constante. Ainda que minha trajetória profissional tenha iniciado recentemente, já pude trabalhar em projetos significativos, desenvolvendo aplicativos com ReactNative e explorando a construção de bancos de dados utilizando JavaScript e Python. A criação de sites interativos com HTML, CSS e JavaScript é uma área na qual tenho me dedicado intensamente.
-
-   Além do desenvolvimento, minha paixão pela criação se estende ao mundo da edição de vídeo. Durante dois anos, explorei ferramentas open-source para dar vida a ideias e histórias através da edição visual, agregando uma perspectiva única aos meus projetos.
-
-   Investi tempo estudando UX/UI, aprimorando minha compreensão da experiência do usuário e da interface do usuário. O Figma se tornou meu aliado nesse caminho, permitindo que eu mergulhe mais fundo nesse universo, trazendo insights valiosos para meus projetos de desenvolvimento.
-
-   Estou sempre em busca de desafios que me permitam expandir minhas habilidades e conhecimentos. Acredito que a combinação entre criatividade e habilidades técnicas é essencial para criar experiências digitais memoráveis e eficazes.
-
-   Meu objetivo é continuar aprimorando minhas habilidades técnicas, explorar novas tecnologias e, acima de tudo, contribuir para projetos que impactem positivamente a vida das pessoas. Seja desenvolvendo soluções inovadoras ou criando experiências envolventes, estou comprometido em evoluir e fazer a diferença no mundo digital.</p>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
