@@ -2,6 +2,16 @@
 
 Site pessoal de Alex Allan — desenvolvido com Vue 3, Pinia e Vue Router.
 
+### Pra mais conteúdo, me segue nas redes abaixo!
+
+<div>
+  <a href="https://www.frontendmentor.io/profile/oalexallan" target="_blank"><img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=plastic"></a>
+  <a href="https://www.instagram.com/oalexallan/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=plastic"></a>
+  <a href="https://www.linkedin.com/in/alex-allan-silveira-a1b327264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic"></a>
+</div>
+
+---
+
 ## Stack
 
 - **Frontend**: Vue 3 (Composition API) + Vite 7
@@ -19,50 +29,19 @@ Site pessoal de Alex Allan — desenvolvido com Vue 3, Pinia e Vue Router.
 - Skills e Projetos carregados via API
 - Formulário de contato autenticado (Google OAuth)
 - Suporte a dois idiomas: Português e Inglês
-- Login com Google
 
-## Pré-requisitos
+## Configuração local
 
-- [Bun](https://bun.sh) instalado
-- API `oalexallan-api` rodando em `http://localhost:3000`
-
-## Configuração
-
-Crie um arquivo `.env` na raiz:
-
-```env
+```bash
+# .env
 VITE_API_URL=http://localhost:3000
-```
 
-## Desenvolvimento
-
-```bash
 bun install
-bun run dev
+bun run dev   # http://localhost:5175
 ```
 
-O servidor sobe em `http://localhost:5175`.
-
-## Build para produção
+## Build
 
 ```bash
-bun run build
+bun run build   # gera dist/
 ```
-
-A pasta `dist/` pode ser publicada em qualquer CDN estático (Cloudflare Pages, Netlify, Vercel, etc.).
-
-## Estrutura
-
-```
-src/
-  assets/          imagens e fontes
-  components/      PageShell, LoginModal
-  i18n/            pt.json, en.json
-  router/          index.js
-  stores/          auth.js, api.js
-  views/           HomeView, SkillsView, ProjectsView, ContactView, ...
-```
-
-## API
-
-O repositório da API está em [`oalexallan-api`](../APIs/oalexallan-api).
