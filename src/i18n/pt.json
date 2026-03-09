@@ -1,0 +1,179 @@
+{
+  "common": {
+    "loading": "Carregando..."
+  },
+  "home": {
+    "welcome": "Bem-vindo",
+    "tagline": "Desenvolvedor",
+    "continue": "Continuar",
+    "bio": "Construo experiências digitais com foco em performance, design e código limpo.",
+    "nav": {
+      "projects": "Projetos",
+      "about":    "Sobre",
+      "skills":   "Habilidades",
+      "resume":   "Currículo",
+      "contact":  "Contato",
+      "news":     "Novidade",
+      "games":    "Games"
+    }
+  },
+  "skills": {
+    "title": "Habilidades",
+    "items": [
+      {
+        "name": "JavaScript",
+        "description": "Minha linguagem de programação mais desenvolvida e a que mais gosto, sendo a primeira que aprendi."
+      },
+      {
+        "name": "HTML & CSS",
+        "description": "Linguagens de marcação e estilo, uso bastante e tenho um vasto conhecimento, com elas desenvolvo de forma rápida e eficiente."
+      },
+      {
+        "name": "Vue.js",
+        "description": "Framework JavaScript progressivo para construir interfaces de usuário. É o meu Framework favorito, usei em alguns projetos e neste site."
+      },
+      {
+        "name": "Node.js",
+        "description": "Ambiente de execução JavaScript para o lado do servidor. Usei algumas vezes, em projetos da faculdade e em outros."
+      },
+      {
+        "name": "Express.js",
+        "description": "Framework para aplicativo da web do Node.js. Usei na faculdade e em alguns projetos simples."
+      },
+      {
+        "name": "MongoDB",
+        "description": "Banco de dados NoSQL orientado a documentos. Sensacional, gostei de usar, porém meu uso do MongoDB foi apenas para um projeto da Faculdade."
+      },
+      {
+        "name": "Python",
+        "description": "Linguagem de programação de alto nível com suporte a múltiplos paradigmas de programação. Foi a primeira linguagem que aprendi na faculdade, criei vários projetos e automações, porém atualmente não uso muito."
+      },
+      {
+        "name": "Django",
+        "description": "Framework de desenvolvimento web de alto nível em Python. Muito legal o que se pode fazer usando Django, usei em um mini-curso de Python e na Faculdade."
+      },
+      {
+        "name": "React",
+        "description": "Biblioteca JavaScript para construir interfaces de usuário. Usei React diversas vezes, na faculdade, em um projeto que não concluí."
+      },
+      {
+        "name": "Git",
+        "description": "Sistema de controle de versão distribuído. Uso bastante para controlar versões dos meus projetos no GITHUB."
+      },
+      {
+        "name": "Docker",
+        "description": "Plataforma para desenvolvedores e sysadmins desenvolverem, implantarem e executarem aplicativos com contêineres. Usei apenas uma vez por curiosidade, estudei Docker por conta própria."
+      },
+      {
+        "name": "Google Cloud",
+        "description": "Plataforma de serviços de nuvem que utilizo em meus projetos."
+      },
+      {
+        "name": "Microsoft Azure",
+        "description": "Plataforma de serviços de nuvem que utilizo na empresa onde trabalho."
+      },
+      {
+        "name": "Zabbix",
+        "description": "Ferramenta de monitoramento que utilizo na minha infraestrutura atual."
+      },
+      {
+        "name": "Administração Office 365",
+        "description": "Ferramenta que utilizo para administrar o Office 365 na empresa onde trabalho."
+      },
+      {
+        "name": "GLPI",
+        "description": "Ferramenta de gestão de serviços de TI que utilizo na empresa onde trabalho."
+      },
+      {
+        "name": "PowerShell",
+        "description": "Adoro usar e aprender PowerShell para criar automações no Active Directory. Usei em vários projetos na empresa atual."
+      },
+      {
+        "name": "DevOps",
+        "description": "Práticas que combinam desenvolvimento de software e operações de TI para reduzir o ciclo de vida do sistema e fornecer alta qualidade de entrega contínua."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projetos",
+    "github": "GitHub",
+    "demo": "Demo",
+    "colab": "Colab",
+    "difficulty": {
+      "easy": "Iniciante",
+      "medium": "Intermediário",
+      "hard": "Avançado"
+    },
+    "items": [
+      {
+        "image": "https://github.com/oalexallan/ProfileCard-DevEmDobro/blob/main/Design/Design-desktop.png?raw=true",
+        "title": "ProfileCard-DevEmDobro",
+        "description": "O Projeto ProfileCard do Dev Em Dobro é parte de um curso com mentoria vitalícia que auxilia no entendimento do uso do display flex e proporção da tela com o card, proporcionando uma excelente primeira experiência para quem está iniciando em HTML e CSS.",
+        "languages": ["HTML", "CSS"],
+        "difficulty": "easy",
+        "githubUrl": "https://github.com/oalexallan/ProfileCard-DevEmDobro",
+        "pageUrl": "https://oalexallan.github.io/ProfileCard-DevEmDobro/"
+      },
+      {
+        "image": "https://github.com/oalexallan/LandingPageDeAgencia/raw/main/Design/design-desktop.png",
+        "title": "Landing Page de Agência",
+        "description": "Criei uma Landing Page com HTML e CSS como parte do curso DevEmDobro, com o objetivo de aplicar o conhecimento adquirido no curso! Utilizei Display Grid e Display Flex para tornar a Landing Page responsiva!",
+        "languages": ["HTML", "CSS"],
+        "difficulty": "easy",
+        "githubUrl": "https://github.com/oalexallan/LandingPageDeAgencia",
+        "pageUrl": "https://oalexallan.github.io/LandingPageDeAgencia/"
+      },
+      {
+        "image": "https://github.com/oalexallan/PaginaInicialDoHuddle/raw/main/design/design-desktop.png",
+        "title": "Página inicial do Huddle",
+        "description": "Criei uma Página inicial com HTML e CSS como parte de um desafio do Frontend Mentor, apresentado pelo DevEmDobro.",
+        "languages": ["HTML", "CSS"],
+        "difficulty": "easy",
+        "githubUrl": "https://github.com/oalexallan/PaginaInicialDoHuddle",
+        "pageUrl": "https://oalexallan.github.io/PaginaInicialDoHuddle/"
+      },
+      {
+        "image": "https://github.com/oalexallan/GeradorDeConselho/blob/main/Design/Design-desktop.png?raw=true",
+        "title": "Gerador de Conselho",
+        "description": "Este projeto começou como um desafio simples do Frontend Mentor, usando HTML, CSS e JavaScript. Com o tempo, evoluiu para incorporar várias APIs e tecnologias, sempre com o objetivo de melhorar a experiência do usuário e tornar o gerador de conselhos mais eficiente e fácil de usar.",
+        "languages": ["HTML", "CSS", "JS", "APIs"],
+        "difficulty": "medium",
+        "githubUrl": "https://github.com/oalexallan/GeradorDeConselho",
+        "pageUrl": "https://geradordeconselho.oalexallan.com.br/"
+      },
+      {
+        "image": "https://github.com/oalexallan/receitas/blob/main/Design/receitas.png?raw=true",
+        "title": "Receitas",
+        "description": "Um site de receitas, criado a partir de um projeto da faculdade. O objetivo principal foi criar um site simples, porém funcional, focado no fornecimento de receitas culinárias, usando HTML, CSS e Bootstrap.",
+        "languages": ["HTML", "CSS", "Bootstrap"],
+        "difficulty": "easy",
+        "githubUrl": "https://github.com/oalexallan/receitas",
+        "pageUrl": "https://oalexallan.github.io/receitas/"
+      },
+      {
+        "image": "https://github.com/oalexallan/exemplosjs/raw/main/img/usuarios.png",
+        "title": "3 Projetos Da Faculdade",
+        "description": "Três projetos desenvolvidos na faculdade explorando HTML, CSS, JavaScript, Vue.js, Node.js e APIs externas.",
+        "languages": ["HTML", "CSS", "JavaScript", "Bootstrap", "Vue.js", "Node.js", "Axios", "APIs"],
+        "difficulty": "medium",
+        "githubUrl": "https://github.com/oalexallan/exemplosjs"
+      },
+      {
+        "image": "https://camo.githubusercontent.com/a68c7ab66742ded7af465498f24b2c12fe3333a96d981d0789a08b639eb5b81f/68747470733a2f2f74322e7475646f63646e2e6e65742f3337313739383f773d36343626683d323834",
+        "title": "Gerador de Histograma de Pontuações",
+        "description": "Um projeto da faculdade onde a ideia é usar Python para criar uma nuvem de palavras e um Histograma.",
+        "languages": ["Python", "Faker", "wordcloud"],
+        "difficulty": "easy",
+        "gColabUrl": "https://colab.research.google.com/drive/1q_r0sZPMcXXvRyTcL63YaH4Mxp53DJQ1#scrollTo=UGYzoCkVPIWY"
+      },
+      {
+        "image": "https://camo.githubusercontent.com/a68c7ab66742ded7af465498f24b2c12fe3333a96d981d0789a08b639eb5b81f/68747470733a2f2f74322e7475646f63646e2e6e65742f3337313739383f773d36343626683d323834",
+        "title": "Gráficos de Gasto em Python",
+        "description": "Um projeto da faculdade onde a ideia é usar Python para criar gráficos com gastos e despesas.",
+        "languages": ["Python"],
+        "difficulty": "easy",
+        "gColabUrl": "https://colab.research.google.com/drive/1Y9M8w6jqoP_zpzfU2nxJJnt4uFoVbO0x#scrollTo=sJaWBPW0p5yu"
+      }
+    ]
+  }
+}

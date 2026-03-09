@@ -1,0 +1,179 @@
+{
+  "common": {
+    "loading": "Loading..."
+  },
+  "home": {
+    "welcome": "Welcome",
+    "tagline": "Developer",
+    "continue": "Continue",
+    "bio": "I build digital experiences focused on performance, design and clean code.",
+    "nav": {
+      "projects": "Projects",
+      "about":    "About",
+      "skills":   "Skills",
+      "resume":   "Resume",
+      "contact":  "Contact",
+      "news":     "News",
+      "games":    "Games"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "items": [
+      {
+        "name": "JavaScript",
+        "description": "My most developed programming language and the one I enjoy most — the first one I ever learned."
+      },
+      {
+        "name": "HTML & CSS",
+        "description": "Markup and styling languages I use extensively. I have broad knowledge and can develop quickly and efficiently with them."
+      },
+      {
+        "name": "Vue.js",
+        "description": "Progressive JavaScript framework for building user interfaces. My favourite framework — used in several projects including this site."
+      },
+      {
+        "name": "Node.js",
+        "description": "JavaScript runtime for the server side. Used in college projects and others."
+      },
+      {
+        "name": "Express.js",
+        "description": "Web application framework for Node.js. Used at college and in some simple projects."
+      },
+      {
+        "name": "MongoDB",
+        "description": "Document-oriented NoSQL database. Loved using it, though my experience was mainly in a college project."
+      },
+      {
+        "name": "Python",
+        "description": "High-level programming language supporting multiple paradigms. My first college language — built many projects and automations, though I don't use it much currently."
+      },
+      {
+        "name": "Django",
+        "description": "High-level Python web framework. Loved what you can do with it — used in a Python mini-course and at college."
+      },
+      {
+        "name": "React",
+        "description": "JavaScript library for building user interfaces. Used React multiple times at college and in a project I didn't finish."
+      },
+      {
+        "name": "Git",
+        "description": "Distributed version control system. I use it constantly to manage versions of my projects on GitHub."
+      },
+      {
+        "name": "Docker",
+        "description": "Platform for building, shipping, and running applications in containers. Tried it out of curiosity and studied it on my own."
+      },
+      {
+        "name": "Google Cloud",
+        "description": "Cloud services platform I use for my personal projects."
+      },
+      {
+        "name": "Microsoft Azure",
+        "description": "Cloud services platform I use at the company where I work."
+      },
+      {
+        "name": "Zabbix",
+        "description": "Monitoring tool I use in my current infrastructure."
+      },
+      {
+        "name": "Office 365 Administration",
+        "description": "Tool I use to administer Office 365 at the company where I work."
+      },
+      {
+        "name": "GLPI",
+        "description": "IT service management tool I use at the company where I work."
+      },
+      {
+        "name": "PowerShell",
+        "description": "Love using and learning PowerShell to build Active Directory automations. Used in several projects at my current company."
+      },
+      {
+        "name": "DevOps",
+        "description": "Practices that combine software development and IT operations to shorten system lifecycle and provide continuous high-quality delivery."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "github": "GitHub",
+    "demo": "Demo",
+    "colab": "Colab",
+    "difficulty": {
+      "easy": "Beginner",
+      "medium": "Intermediate",
+      "hard": "Advanced"
+    },
+    "items": [
+      {
+        "image": "https://github.com/oalexallan/ProfileCard-DevEmDobro/blob/main/Design/Design-desktop.png?raw=true",
+        "title": "ProfileCard-DevEmDobro",
+        "description": "The ProfileCard project from Dev Em Dobro is part of a course with lifetime mentorship. It covers flexbox usage and card proportions, providing a great first experience for those starting with HTML and CSS.",
+        "languages": ["HTML", "CSS"],
+        "difficulty": "easy",
+        "githubUrl": "https://github.com/oalexallan/ProfileCard-DevEmDobro",
+        "pageUrl": "https://oalexallan.github.io/ProfileCard-DevEmDobro/"
+      },
+      {
+        "image": "https://github.com/oalexallan/LandingPageDeAgencia/raw/main/Design/design-desktop.png",
+        "title": "Agency Landing Page",
+        "description": "I built a Landing Page with HTML and CSS as part of the DevEmDobro course. Used CSS Grid and Flexbox to make it fully responsive.",
+        "languages": ["HTML", "CSS"],
+        "difficulty": "easy",
+        "githubUrl": "https://github.com/oalexallan/LandingPageDeAgencia",
+        "pageUrl": "https://oalexallan.github.io/LandingPageDeAgencia/"
+      },
+      {
+        "image": "https://github.com/oalexallan/PaginaInicialDoHuddle/raw/main/design/design-desktop.png",
+        "title": "Huddle Landing Page",
+        "description": "Built a landing page with HTML and CSS as a Frontend Mentor challenge, presented by DevEmDobro.",
+        "languages": ["HTML", "CSS"],
+        "difficulty": "easy",
+        "githubUrl": "https://github.com/oalexallan/PaginaInicialDoHuddle",
+        "pageUrl": "https://oalexallan.github.io/PaginaInicialDoHuddle/"
+      },
+      {
+        "image": "https://github.com/oalexallan/GeradorDeConselho/blob/main/Design/Design-desktop.png?raw=true",
+        "title": "Advice Generator",
+        "description": "Started as a simple Frontend Mentor challenge using HTML, CSS and JavaScript. Evolved to incorporate multiple APIs, always focused on improving user experience.",
+        "languages": ["HTML", "CSS", "JS", "APIs"],
+        "difficulty": "medium",
+        "githubUrl": "https://github.com/oalexallan/GeradorDeConselho",
+        "pageUrl": "https://geradordeconselho.oalexallan.com.br/"
+      },
+      {
+        "image": "https://github.com/oalexallan/receitas/blob/main/Design/receitas.png?raw=true",
+        "title": "Recipes",
+        "description": "A recipe website created from a college project. Simple but functional, focused on providing culinary recipes using HTML, CSS and Bootstrap.",
+        "languages": ["HTML", "CSS", "Bootstrap"],
+        "difficulty": "easy",
+        "githubUrl": "https://github.com/oalexallan/receitas",
+        "pageUrl": "https://oalexallan.github.io/receitas/"
+      },
+      {
+        "image": "https://github.com/oalexallan/exemplosjs/raw/main/img/usuarios.png",
+        "title": "3 College Projects",
+        "description": "Three projects developed in college exploring HTML, CSS, JavaScript, Vue.js, Node.js and external APIs.",
+        "languages": ["HTML", "CSS", "JavaScript", "Bootstrap", "Vue.js", "Node.js", "Axios", "APIs"],
+        "difficulty": "medium",
+        "githubUrl": "https://github.com/oalexallan/exemplosjs"
+      },
+      {
+        "image": "https://camo.githubusercontent.com/a68c7ab66742ded7af465498f24b2c12fe3333a96d981d0789a08b639eb5b81f/68747470733a2f2f74322e7475646f63646e2e6e65742f3337313739383f773d36343626683d323834",
+        "title": "Score Histogram Generator",
+        "description": "A college project using Python to generate a word cloud and a score histogram.",
+        "languages": ["Python", "Faker", "wordcloud"],
+        "difficulty": "easy",
+        "gColabUrl": "https://colab.research.google.com/drive/1q_r0sZPMcXXvRyTcL63YaH4Mxp53DJQ1#scrollTo=UGYzoCkVPIWY"
+      },
+      {
+        "image": "https://camo.githubusercontent.com/a68c7ab66742ded7af465498f24b2c12fe3333a96d981d0789a08b639eb5b81f/68747470733a2f2f74322e7475646f63646e2e6e65742f3337313739383f773d36343626683d323834",
+        "title": "Expense Charts in Python",
+        "description": "A college project using Python to create charts from spending and expense data.",
+        "languages": ["Python"],
+        "difficulty": "easy",
+        "gColabUrl": "https://colab.research.google.com/drive/1Y9M8w6jqoP_zpzfU2nxJJnt4uFoVbO0x#scrollTo=sJaWBPW0p5yu"
+      }
+    ]
+  }
+}
